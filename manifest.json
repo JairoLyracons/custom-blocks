@@ -11,8 +11,16 @@
     "react": "3.x"
   },
   "dependencies": {
+    "vtex.store": "2.x",
+    "vtex.shelf": "1.x",
+    "vtex.product-context": "0.x",
     "vtex.styleguide": "9.x",
-    "vtex.css-handles": "0.x"
+    "vtex.css-handles": "0.x",
+    "vtex.slider-layout": "0.x",
+    "vtex.rich-text": "0.x",
+    "vtex.flex-layout": "0.x",
+    "vtex.product-list-context": "0.x",
+    "vtex.store-components": "3.x"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
